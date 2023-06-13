@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RetrofitGoogleAds</string>
+
+    <!-- Google ads xml ke liye-->
+    <string name="banner_ad_unit_id">ca-app-pub-7106981806500353/6722814428</string>
+    <string name="interstitial_ad_id">ca-app-pub-7106981806500353/7793354177</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="offline">offline</string>
+    <string name="api_updated">api loading</string>
+    <string name="error">error</string>
+</resources>
